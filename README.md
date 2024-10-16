@@ -17,8 +17,6 @@ This project is a full-stack CRUD (Create, Read, Update, Delete) application dev
 * Frontend: Thymeleaf, HTML, CSS
 * Database: MySQl
 
-## Getting Started
-To run this project locally, follow these steps:
 
 # Prerequisites
 Java Development Kit (JDK) 11 or higher
